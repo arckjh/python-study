@@ -1,7 +1,7 @@
 ## 어플리케이션 설명
 
 * 문제 이슈
-    - 링크 : (https://docs.google.com/document/d/16qUjrB48eCHWqRMCatD7eFmgU_Y6b2E5gkSeAJgr6_c/edit?ts=5dd7a245#)[https://docs.google.com/document/d/16qUjrB48eCHWqRMCatD7eFmgU_Y6b2E5gkSeAJgr6_c/edit?ts=5dd7a245#]
+    - 링크 : https://docs.google.com/document/d/16qUjrB48eCHWqRMCatD7eFmgU_Y6b2E5gkSeAJgr6_c/edit?ts=5dd7a245#
     - 사용자를 유니크키로 데이터를 출력할 때 카드 번호가 다른 사용자일 경우 버그가 발생될 수 있음
     - 시스템 설계/개발인데 데이터를 영속적으로 저장할 수 있는 기능이 필요하다고 판단
     - 시스템 반영
